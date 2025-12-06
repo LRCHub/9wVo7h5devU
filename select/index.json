@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "繚乱！ビクトリーロード",
+  "base_artist": "虹ヶ咲学園スクールアイドル同好会",
+  "createdAt": "2025-12-06T08:46:54.441376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "繚乱！ビクトリーロード",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": true,
+      "path": "select/01_繚乱!ビクトリーロード_Nijigasaki_High_School_Idol_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "繚乱！ビクトリーロード",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/02_繚乱!ビクトリーロード_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "繚乱!ビクトリーロード",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": false,
+      "path": "select/pl_01_繚乱!ビクトリーロード_虹ヶ咲学園スクールアイドル同好会.txt"
+    }
+  ]
+}
